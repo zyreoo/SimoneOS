@@ -1,5 +1,5 @@
 [org 0x7c00]
-[bits 16]
+[bits 16]   
 
 KERNEL_OFFSET equ 0x1000
 
